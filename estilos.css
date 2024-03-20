@@ -5,19 +5,19 @@
 
 }
 body{
-    background-color: #00f7ff;
+    background-color: #05f7f7;
 }
 h1{
     text-align: center;
     font-size: 3rem;
     font-family: Georgia, 'Times New Roman', Times, serif;
     padding-top: 10px;
-    color: #010808;
+    color: #f5f8f8;
 }
 h2{
    text-align: center;
    font-size: 2rem;
-   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   font-family: Impact, 'Haettenschweiler', 'Arial Narrow Bold', sans-serif;
    padding-top: 10px;
    color: #010808;
 }
